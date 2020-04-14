@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+.idea/
+.settings/
+.project
+.classpath
+logs/
+.springBeans
+doc/
+hui-build/
+node_modules/
+*.iml
