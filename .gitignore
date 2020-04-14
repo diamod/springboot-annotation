@@ -7,7 +7,6 @@ target/
 .classpath
 logs/
 .springBeans
-doc/
 hui-build/
 node_modules/
 *.iml
